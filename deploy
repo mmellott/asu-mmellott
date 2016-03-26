@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rsync -a ./output/ mmellott@general.asu.edu:www
+
